@@ -13,6 +13,6 @@ This will include:
    Another folder containing all the UTAU information and .wav's used for the chromatic scale
 
 
-IF YOU WANT TO USE THESE PLEASE CREDIT ME
+# IF YOU WANT TO USE THESE PLEASE CREDIT ME
 
 My channel is rather small so crediting me will really help out!
